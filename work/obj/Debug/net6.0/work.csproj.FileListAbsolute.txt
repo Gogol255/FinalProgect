@@ -1,0 +1,15 @@
+C:\FinalProject\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+C:\FinalProject\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProject\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+C:\FinalProject\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+C:\FinalProject\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+C:\FinalProject\work\bin\Debug\net6.0\work.exe
+C:\FinalProject\work\bin\Debug\net6.0\work.deps.json
+C:\FinalProject\work\bin\Debug\net6.0\work.runtimeconfig.json
+C:\FinalProject\work\bin\Debug\net6.0\work.dll
+C:\FinalProject\work\bin\Debug\net6.0\work.pdb
+C:\FinalProject\work\obj\Debug\net6.0\work.dll
+C:\FinalProject\work\obj\Debug\net6.0\refint\work.dll
+C:\FinalProject\work\obj\Debug\net6.0\work.pdb
+C:\FinalProject\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+C:\FinalProject\work\obj\Debug\net6.0\ref\work.dll
